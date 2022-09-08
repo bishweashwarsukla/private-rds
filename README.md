@@ -1,8 +1,5 @@
 # private-rds
 
-## Tags used are as follows:
-
-![](images/tags.PNG)
 
 ## Output windows showing timestamp when flask app is ran.
 
